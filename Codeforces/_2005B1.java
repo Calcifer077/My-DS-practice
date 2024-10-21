@@ -1,3 +1,5 @@
+// The Strict Teacher (Easy Version)
+
 import java.util.*;
 
 public class _2005B1 {

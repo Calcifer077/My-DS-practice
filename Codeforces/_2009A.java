@@ -1,3 +1,5 @@
+// Minimize!
+
 import java.util.*;
 
 public class _2009A {

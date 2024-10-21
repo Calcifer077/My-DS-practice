@@ -1,3 +1,5 @@
+// Meaning Mean
+
 import java.util.*;
 
 public class _2021A {
