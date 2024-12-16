@@ -11,24 +11,17 @@ public class check_if_array_is_sorted_and_rotated {
         }
 
         if (pos != -1) {
-            for (int i = pos; i < nums.length - 1; i++) {
-                if (nums[i] > nums[i + 1]) {
+            for (int i = pos; i < nums.length; i++) {
+                if (!(nums[0] >= nums[i])) {
                     return false;
                 }
             }
         }
-
-        if (pos != -1) {
-            if (nums[nums.length - 1] > nums[0]) {
-                return false;
-            }
-        }
-
         return true;
     }
 
     public static void main(String[] args) {
-        int nums[] = { 5, 6, 1, 2, 3, 4 };
+        int nums[] = { 6, 10, 6 };
         System.out.println(check(nums));
     }
 }
