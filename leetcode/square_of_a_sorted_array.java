@@ -1,6 +1,6 @@
 package leetcode;
 
-import java.util.*;;
+import java.util.*;
 
 public class square_of_a_sorted_array {
     public static int[] sortedSquares(int[] nums) {
