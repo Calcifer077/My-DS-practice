@@ -80,7 +80,7 @@ public class _474A {
 
         }
 
-        System.err.println();
+        System.out.println();
 
         sc.close();
     }
