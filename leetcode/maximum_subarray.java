@@ -1,4 +1,3 @@
-package leetcode;
 
 public class maximum_subarray {
     // Using kadane's algorithm

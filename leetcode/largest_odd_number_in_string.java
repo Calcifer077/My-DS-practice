@@ -1,4 +1,3 @@
-package leetcode;
 
 public class largest_odd_number_in_string {
     public static String largestOddNumber(String num) {

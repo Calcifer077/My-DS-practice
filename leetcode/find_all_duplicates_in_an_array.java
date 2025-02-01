@@ -1,5 +1,3 @@
-package leetcode;
-
 import java.util.*;
 
 public class find_all_duplicates_in_an_array {

@@ -1,4 +1,3 @@
-package leetcode;
 
 public class check_if_array_is_sorted_and_rotated {
     public static boolean check(int[] nums) {

@@ -1,4 +1,3 @@
-package leetcode;
 
 public class find_the_divisibility_array_of_a_string {
     public static int[] divisibilityArray(String word, int m) {

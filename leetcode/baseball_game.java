@@ -1,5 +1,3 @@
-package leetcode;
-
 import java.util.*;
 
 public class baseball_game {

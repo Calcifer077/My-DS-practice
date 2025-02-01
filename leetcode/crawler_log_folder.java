@@ -1,4 +1,3 @@
-package leetcode;
 
 public class crawler_log_folder {
     public static int minOperations(String[] logs) {

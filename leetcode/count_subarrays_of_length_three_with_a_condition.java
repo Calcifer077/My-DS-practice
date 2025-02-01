@@ -1,4 +1,3 @@
-package leetcode;
 
 public class count_subarrays_of_length_three_with_a_condition {
     public static int countSubarrays(int[] nums) {

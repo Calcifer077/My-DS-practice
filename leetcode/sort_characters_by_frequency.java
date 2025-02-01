@@ -1,5 +1,3 @@
-package leetcode;
-
 import java.util.*;
 
 public class sort_characters_by_frequency {

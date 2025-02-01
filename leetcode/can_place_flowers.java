@@ -1,4 +1,3 @@
-package leetcode;
 
 public class can_place_flowers {
 

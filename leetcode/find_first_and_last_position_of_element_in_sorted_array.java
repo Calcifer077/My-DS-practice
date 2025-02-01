@@ -1,4 +1,3 @@
-package leetcode;
 
 public class find_first_and_last_position_of_element_in_sorted_array {
     public static int search(int nums[], int start, int end, int target) {

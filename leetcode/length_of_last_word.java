@@ -1,4 +1,3 @@
-package leetcode;
 
 public class length_of_last_word {
     public static int lengthOfLastWord(String s) {

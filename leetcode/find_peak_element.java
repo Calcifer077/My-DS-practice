@@ -1,4 +1,3 @@
-package leetcode;
 
 public class find_peak_element {
     public static int findPeakElement(int[] nums) {

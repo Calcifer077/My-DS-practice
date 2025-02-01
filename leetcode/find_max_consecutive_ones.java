@@ -1,4 +1,3 @@
-package leetcode;
 
 public class find_max_consecutive_ones {
 

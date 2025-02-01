@@ -1,4 +1,3 @@
-package leetcode;
 
 public class insert_search_position {
     public static int searchInsert(int nums[], int target) {

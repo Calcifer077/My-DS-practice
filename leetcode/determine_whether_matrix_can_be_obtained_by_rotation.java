@@ -1,4 +1,3 @@
-package leetcode;
 
 public class determine_whether_matrix_can_be_obtained_by_rotation {
     public static void rotate(int[][] matrix) {

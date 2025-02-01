@@ -1,5 +1,3 @@
-package leetcode;
-
 class button_with_longest_push_time {
     public static int buttonWithLongestTime(int[][] events) {
         int res = events[0][0];

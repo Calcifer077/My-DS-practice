@@ -1,4 +1,3 @@
-package leetcode;
 
 public class lemondae_change {
     public static boolean solve(int[] bills) {

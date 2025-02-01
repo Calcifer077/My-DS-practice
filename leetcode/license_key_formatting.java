@@ -1,4 +1,3 @@
-package leetcode;
 
 public class license_key_formatting {
     public static String licenseKeyFormatting(String s, int k) {
