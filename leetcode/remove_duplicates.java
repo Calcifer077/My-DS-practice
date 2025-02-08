@@ -1,5 +1,3 @@
-package leetcode;
-
 public class remove_duplicates {
     public static int removeDuplicates(int[] nums) {
 

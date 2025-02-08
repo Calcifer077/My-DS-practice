@@ -1,5 +1,3 @@
-package leetcode;
-
 public class remove_elements {
     public static int removeElement(int[] nums, int val) {
         int j = 0;

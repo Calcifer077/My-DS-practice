@@ -1,5 +1,3 @@
-package leetcode;
-
 public class search_a_2D_matrix_II {
     public static boolean searchMatrix(int[][] matrix, int target) {
         // All integers in a row are sorted in ascending order

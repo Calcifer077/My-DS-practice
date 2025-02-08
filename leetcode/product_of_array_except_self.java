@@ -1,5 +1,3 @@
-package leetcode;
-
 public class product_of_array_except_self {
     public static int[] productExceptSelf(int[] nums) {
         // How to solve it?

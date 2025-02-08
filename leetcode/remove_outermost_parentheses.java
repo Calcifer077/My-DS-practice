@@ -1,5 +1,3 @@
-package leetcode;
-
 public class remove_outermost_parentheses {
     public static String removeOuterParentheses(String s) {
         StringBuilder res = new StringBuilder();

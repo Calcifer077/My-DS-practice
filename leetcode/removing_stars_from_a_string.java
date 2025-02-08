@@ -1,5 +1,3 @@
-package leetcode;
-
 public class removing_stars_from_a_string {
 
     public static String removeStars(String s) {

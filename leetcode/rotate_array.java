@@ -1,5 +1,3 @@
-package leetcode;
-
 public class rotate_array {
     // Approach 1
     // public static void rotate(int[] nums, int k) {

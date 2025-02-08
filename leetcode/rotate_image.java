@@ -1,5 +1,3 @@
-package leetcode;
-
 public class rotate_image {
     // Firstly take transpose of the matrix and then just reverse it horizontally.
     public static void rotate(int[][] matrix) {

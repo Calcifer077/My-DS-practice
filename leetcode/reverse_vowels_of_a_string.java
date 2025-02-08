@@ -1,5 +1,3 @@
-package leetcode;
-
 public class reverse_vowels_of_a_string {
     public static String reverseVowels(String s) {
         int start = 0;

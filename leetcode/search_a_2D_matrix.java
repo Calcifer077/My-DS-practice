@@ -1,5 +1,3 @@
-package leetcode;
-
 public class search_a_2D_matrix {
     public static boolean searchMatrix(int[][] matrix, int target) {
         // Every cell is sorted.

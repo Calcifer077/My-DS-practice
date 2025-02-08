@@ -1,5 +1,3 @@
-package leetcode;
-
 import java.util.HashMap;
 
 public class subarray_sum_equals_k {

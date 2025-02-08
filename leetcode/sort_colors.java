@@ -1,4 +1,3 @@
-package leetcode;
 
 public class sort_colors {
     public static void sortColors(int[] nums) {

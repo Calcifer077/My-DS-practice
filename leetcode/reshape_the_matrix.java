@@ -1,5 +1,3 @@
-package leetcode;
-
 public class reshape_the_matrix {
     public static int[][] matrixReshape(int[][] mat, int r, int c) {
         // Approach I

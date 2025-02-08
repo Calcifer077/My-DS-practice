@@ -1,5 +1,3 @@
-package leetcode;
-
 import java.util.HashMap;
 
 public class rearrange_characters_to_make_target_string {

@@ -1,5 +1,3 @@
-package leetcode;
-
 import java.util.*;
 
 public class rank_transform_of_an_array {

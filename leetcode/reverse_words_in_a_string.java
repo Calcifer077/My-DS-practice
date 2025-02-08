@@ -1,7 +1,3 @@
-package leetcode;
-
-import java.util.ArrayList;
-
 public class reverse_words_in_a_string {
     public static String reverseWords(String s) {
         StringBuilder res = new StringBuilder();

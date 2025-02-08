@@ -1,6 +1,3 @@
-package leetcode;
-
-import java.util.*;
 
 public class single_element_in_a_sorted_array {
     public static int singleNonDuplicates(int[] nums) {

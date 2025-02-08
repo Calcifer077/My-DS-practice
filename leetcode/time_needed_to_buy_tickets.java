@@ -1,7 +1,3 @@
-package leetcode;
-
-import java.util.*;
-
 public class time_needed_to_buy_tickets {
     public static int timeRequiredToBuy(int[] tickets, int k) {
         int res = tickets[k];
